@@ -9,3 +9,5 @@
 /.vs/KHN.FileUploader
 /KHN.FileUploader.API/bin/Debug/net8.0
 /KHN.FileUploader.API/obj
+/.vs/ProjectEvaluation
+/KHN.FileUploader.API/bin/Release/net8.0
